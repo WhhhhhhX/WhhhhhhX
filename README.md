@@ -6,7 +6,10 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](haoxwang6@gmail.com)
  
 Welcome to my page!
-I'm Haoxu(Allen) Wang, I am currently working on web/mobile full stack development, deep learning and distributed system. 
+
+🧑‍🎓 I'm Haoxu(Allen) Wang, a Computer Engineering Graduate Student at NYU.
+💻 Product-driven web/mobile software engineer with hands-on development skills.
+💼 I am currently working on web/mobile full stack development, deep learning and distributed system. 
 
 #### 📑 My Leetcode Process:
 https://leetcode.com/u/OfferMaker_whx/
