@@ -1,11 +1,11 @@
-### Hey! Nice to see you.👋 ✨ 
+### Hey! Nice to see you.👋 
  
  
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/WhhhhhhX)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hxwang618/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](haoxwang6@gmail.com)
  
-Welcome to my page!
+✨ Welcome to my page✨ 
 
 🧑‍🎓 I'm Haoxu(Allen) Wang, a Computer Engineering Graduate Student at NYU.<br>
 💻 Product-driven web/mobile software engineer with hands-on development skills.<br>
