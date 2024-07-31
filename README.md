@@ -6,8 +6,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](haoxwang6@gmail.com)
  
 Welcome to my page!
-I'm Haoxu(Allen) Wang, a Fullstack software engineer, and I am currently looking for a new software engineer job to improve my skills!  
- 
+I'm Haoxu(Allen) Wang, I am currently working on web/mobile full stack development, deep learning and distributed system. 
 
  
  
@@ -41,5 +40,6 @@ I'm Haoxu(Allen) Wang, a Fullstack software engineer, and I am currently looking
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
 </p>
 
