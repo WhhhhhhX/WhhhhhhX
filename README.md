@@ -5,7 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hxwang618/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](haoxwang6@gmail.com)
  
-Welcome to my Github page! I am Lina and I am currently Learning NLP and RL!  
+Welcome to my Github page! I am a software engineer and I am currently looking for a new software engineer job to improve my skills!  
  
 <img align="right" alt="img" src="https://github.com/zhanglina94/zhanglina94/blob/main/img/pic.jpg" width="50%" height="auto" />
  
