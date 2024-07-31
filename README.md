@@ -8,7 +8,7 @@
 Welcome to my page!
 I'm Haoxu(Allen) Wang, a Fullstack software engineer, and I am currently looking for a new software engineer job to improve my skills!  
  
-<img align="right" alt="img" src="https://github.com/zhanglina94/zhanglina94/blob/main/img/pic.jpg" width="50%" height="auto" />
+
  
  
 #### 🌱 Things I am currently working on 🌱 : 
@@ -28,6 +28,9 @@ I'm Haoxu(Allen) Wang, a Fullstack software engineer, and I am currently looking
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+
+ <code><img width="10%" src=" https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>
 <br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-ar21.svg"></code>
