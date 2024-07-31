@@ -8,7 +8,8 @@
 Welcome to my page!
 I'm Haoxu(Allen) Wang, I am currently working on web/mobile full stack development, deep learning and distributed system. 
 
- 
+#### 📑 My Leetcode Process:
+https://leetcode.com/u/OfferMaker_whx/
  
 #### 🌱 Things I am currently working on 🌱 : 
 - Taking online courses about software development and AI!
@@ -21,7 +22,7 @@ I'm Haoxu(Allen) Wang, I am currently working on web/mobile full stack developme
 - Chat GPT
 - CV
 
-#### :computer: Programming languages and tools :computer: : 
+#### :computer: My Main Tech Stack: :computer: : 
 <p>
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></code>
