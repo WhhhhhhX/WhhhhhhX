@@ -8,8 +8,8 @@
 ✨ Welcome to my page✨ 
 
 🧑‍🎓 I'm Haoxu(Allen) Wang, a Computer Engineering Graduate Student at NYU.<br>
-💻 Product-driven web/mobile software engineer with hands-on development skills.<br>
-💼 I am currently working on web/mobile full stack development, deep learning and distributed system. 
+👾 Product-driven web/mobile software engineer with hands-on development skills.<br>
+🧑🏻‍💻 I am currently working on web/mobile full stack development, deep learning and distributed system. 
 
 #### 📑 My Leetcode Process:
 https://leetcode.com/u/OfferMaker_whx/
