@@ -13,6 +13,9 @@
 
 #### 📑 My Leetcode Process:
 https://leetcode.com/u/OfferMaker_whx/
+
+#### 💻 Upcoming:
+All the projects I have completed from my undergraduate to graduate studies will be uploaded to my GitHub.
  
 #### 🌱 Things I am currently working on 🌱 : 
 - Taking online courses about software development and AI!
@@ -23,7 +26,7 @@ https://leetcode.com/u/OfferMaker_whx/
 - Software development
 - Distributed system
 - Chat GPT
-- CV
+- Deep Learning/Machine Learning
 
 #### :computer: My Main Tech Stack: :computer: : 
 <p>
