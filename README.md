@@ -15,7 +15,7 @@
 https://leetcode.com/u/OfferMaker_whx/
 
 #### 💻 Upcoming:
-All the projects I have completed from my undergraduate to graduate studies will be uploaded to my GitHub.
+All the projects I have completed from my undergraduate to graduate studies will be uploaded to my GitHub soon！
  
 #### 🌱 Things I am currently working on 🌱 : 
 - Taking online courses about software development and AI!
